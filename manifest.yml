@@ -1,0 +1,5 @@
+---
+applications:
+- name: boot-azure-blobstore-example
+  memory: 1024M
+  instances: 1
